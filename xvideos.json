@@ -1,0 +1,94 @@
+{
+    "videos": [
+        {
+            "title": "Video 1",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_7778_375751597c_a155f856b5.jpg",
+            "duration": "100"
+        },
+        {
+            "title": "Video 2",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2156_9797573826_a155f856b5.jpg",
+            "duration": "120"
+        },
+        {
+            "title": "Video 3",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_9449_5707707596_a155f856b5.jpg",
+            "duration": "140"
+        },
+        {
+            "title": "Video 4",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_3156_3450995686_a155f856b5.jpg",
+            "duration": "160"
+        },
+        {
+            "title": "Video 5",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2339_5844783925_a155f856b5.jpg",
+            "duration": "180"
+        },
+        {
+            "title": "Video 6",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_1404_7674763866_a155f856b5.jpg",
+            "duration": "200"
+        },
+        {
+            "title": "Video 7",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2135_3047707536_a155f856b5.jpg",
+            "duration": "220"
+        },
+        {
+            "title": "Video 8",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2340_9019370306_a155f856b5.jpg",
+            "duration": "240"
+        },
+        {
+            "title": "Video 9",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_3155_3450995686_a155f856b5.jpg",
+            "duration": "260"
+        },
+        {
+            "title": "Video 10",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_9448_5707707596_a155f856b5.jpg",
+            "duration": "280"
+        },
+        {
+            "title": "Video 11",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2155_9797573826_a155f856b5.jpg",
+            "duration": "300"
+        },
+        {
+            "title": "Video 12",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_3157_3450995686_a155f856b5.jpg",
+            "duration": "320"
+        },
+        {
+            "title": "Video 13",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_9450_5707707596_a155f856b5.jpg",
+            "duration": "340"
+        },
+        {
+            "title": "Video 14",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2338_5844783925_a155f856b5.jpg",
+            "duration": "360"
+        },
+        {
+            "title": "Video 15",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "thumbnailUrl": "https://loremflickr.com/cache/resized/320_240_2136_9019370306_a155f856b5.jpg",
+            "duration": "380"
+        }
+    ]
+}
